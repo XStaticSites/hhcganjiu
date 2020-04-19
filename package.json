@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "vuepress build src",
-    "deploy": "./deply.sh"
+    "build": "vuepress build src"
   },
   "repository": {
     "type": "git",
