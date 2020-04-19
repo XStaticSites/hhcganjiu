@@ -1,0 +1,20 @@
+{
+  "name": "hhc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vuepress build src",
+    "deploy": "./deply.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigbanana/hhcganjiu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigbanana/hhcganjiu/issues"
+  },
+  "homepage": "https://github.com/bigbanana/hhcganjiu#readme"
+}
